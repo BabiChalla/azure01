@@ -1,0 +1,2 @@
+# azure01
+class
